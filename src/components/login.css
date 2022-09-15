@@ -1,7 +1,8 @@
-@import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
+@import url("https://fonts.googleapis.com/css?family=Muli&display=swap");
 
 * {
   box-sizing: border-box;
+  color: white;
 }
 
 .container {
@@ -26,9 +27,6 @@
   width: 100%;
   margin-bottom: 10px;
 }
-
-
-
 
 .result-container .btn {
   position: absolute;
